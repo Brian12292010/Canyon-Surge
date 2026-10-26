@@ -1,4 +1,4 @@
-# Hello brianyang
+# Git基礎使用
 
 ## 沒有Git的作法
 
