@@ -20,7 +20,7 @@ https://git-scm.com/install/windows
 
 ### 2. macOS
 
-![Apple Logo](https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" width="80">
 
 使用 Homebrew 安裝：
 
